@@ -28,3 +28,4 @@
 <b>Name :- Aryan Singh</b><br>
 <b> Linkedin :- https://www.linkedin.com/in/aryan-singh-b91248331/</b><br>
 <b> Kaggle :- https://www.kaggle.com/datawitharyan</b>
+<b>https://medium.com/@singharyan90827/solving-netflix-business-problems-using-python-sql-f11760fafb9c</b>
